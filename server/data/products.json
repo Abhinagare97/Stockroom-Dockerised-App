@@ -1,0 +1,50 @@
+[
+  {
+    "id": "item-001",
+    "name": "Trailmark All-Season",
+    "sku": "TM-205-55-R16",
+    "category": "Tires",
+    "quantity": 24,
+    "price": 128
+  },
+  {
+    "id": "item-002",
+    "name": "Roadline Touring Pro",
+    "sku": "RL-225-60-R17",
+    "category": "Tires",
+    "quantity": 6,
+    "price": 164.5
+  },
+  {
+    "id": "item-003",
+    "name": "Summit Terrain A/T",
+    "sku": "ST-265-70-R17",
+    "category": "Tires",
+    "quantity": 18,
+    "price": 192
+  },
+  {
+    "id": "item-004",
+    "name": "Forge Alloy 5-Spoke",
+    "sku": "FA-18-BLK-5S",
+    "category": "Wheels",
+    "quantity": 4,
+    "price": 245
+  },
+  {
+    "id": "item-005",
+    "name": "Valve Stem Kit",
+    "sku": "VS-KIT-04",
+    "category": "Accessories",
+    "quantity": 42,
+    "price": 12.99
+  },
+  {
+    "id": "item-006",
+    "name": "Precision Alignment",
+    "sku": "SV-ALIGN-01",
+    "category": "Services",
+    "quantity": 3,
+    "price": 89
+  }
+]
